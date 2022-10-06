@@ -2,16 +2,17 @@
 > **
 
 
+
 # How I built it
 
 
 # Video Walkthrough
 Users can:
   <ul>
-    <li>Add new entries</li>
-    <li>Update entries</li>
-    <li>Delete entries</li>
-    <li>Search for entries using child ID</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
 
 # Tech/Framework
@@ -23,5 +24,9 @@ Users can:
   <li><a href="https://www.apachefriends.org/">XAMPP</a></li>
 </ul>
 
-# Notes
+# Contributors
+  -Gabriela Liera
+  -Jonathan Ebeung
 
+# Notes
+This project involved improving the legacy code from a hypnotical e-commerce website using a LAMP( Linux, Apache, MariaDB, and PHP). We reviewed all the files and learned how they interact in this application. We changed the product from books to stickers and I built a new database to correspond to the new product. I also add an order confirmation receipt for the customer after a purchase was made. I will not add new features to this application as I plan to continue working on new projects
