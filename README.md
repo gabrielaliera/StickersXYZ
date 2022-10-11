@@ -1,18 +1,18 @@
 # StickersXYZ
 > **
 
-
+StickersXYZ is an e-commerce website using a LAMP(Linux, Apache, MariaDB, and PHP).
 
 # How I built it
-
+The frontend was built using HTML and CSS. The backend was built using MariaDB and PHP. 
 
 # Video Walkthrough
 Users can:
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Visit different categories of stickers and view product information</li>
+    <li>Add and update shopping cart</li>
+    <li>Checkout and add billing, shipping, and payment information</li>
+    <li>View order information after purchase</li>
   </ul>
 
 # Tech/Framework
