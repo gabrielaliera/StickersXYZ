@@ -51,6 +51,8 @@ Users can:
     <li>Checkout and add billing, shipping, and payment information</li>
     <li>View order information after purchase</li>
   </ul>
+<img src= 'stickerXYZ_recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF created with [LICEcap](https://www.cockos.com/licecap/).  
 
 # Tech/Framework
 <ul>
