@@ -71,4 +71,4 @@ GIF created with [LICEcap](https://www.cockos.com/licecap/).
   </ul>
 
 # Notes
-This project involved improving the legacy code from a hypnotical e-commerce website using a LAMP( Linux, Apache, MariaDB, and PHP). We reviewed all the files and learned how they interacted in this application. I will not add new features to this application as I plan to continue working on new projects.
+This project involved improving the legacy code from a hypothetical e-commerce website using a LAMP( Linux, Apache, MariaDB, and PHP). We reviewed all the files and learned how they interacted in this application. I will not add new features to this application as I plan to continue working on new projects.
